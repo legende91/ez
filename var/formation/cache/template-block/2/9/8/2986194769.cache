@@ -1,0 +1,96 @@
+
+                
+    <title>Ouverture de session / Utilisateur - Que j'adore</title>
+
+    
+    
+    
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+            <meta http-equiv="Content-language" content="fr-FR" />
+
+    
+        <meta name="author" content="eZ Systems" />
+
+        <meta name="copyright" content="eZ Systems" />
+
+        <meta name="description" content="Content Management System" />
+
+        <meta name="keywords" content="cms, publish, e-commerce, content management, development framework" />
+
+    
+    <meta name="generator" content="eZ Publish" />
+    
+
+<link rel="Home" href="/index.php" title="Page de garde Que j'adore" />
+<link rel="Index" href="/index.php" />
+<link rel="Top"  href="/index.php" title="Ouverture de session / Utilisateur - Que j'adore" />
+<link rel="Search" href="/index.php/content/advancedsearch" title="Recherche Que j'adore" />
+<link rel="Shortcut icon" href="/design/standard/images/favicon.ico" type="image/x-icon" />
+<link rel="Copyright" href="/index.php/ezinfo/copyright" />
+<link rel="Author" href="/index.php/ezinfo/about" />
+
+<script type="text/javascript">
+(function() {
+    var head = document.getElementsByTagName('head')[0];
+    var printNode = document.createElement('link');
+    printNode.rel = 'Alternate';
+    printNode.href = "/index.php/layout/set/print" + document.location.search;
+    printNode.media = 'print';
+    printNode.title = "Version imprimable";
+    head.appendChild(printNode);
+})();
+</script>
+
+        
+      <link rel="stylesheet" type="text/css" href="/var/formation/cache/public/stylesheets/a8402d9ee588f08ac3c81e94423cd098_all.css" />
+
+  
+  
+
+<!--[if lt IE 8]>
+<style>
+/* Terminate floating elements flow in IE < 8 */
+.float-break
+{
+  height: 1%;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 8]>
+<style>
+#controlbar-top .box-bc
+{
+  filter:progid:DXImageTransform.Microsoft.Shadow(color='gray', Direction=180, Strength=8);
+  zoom: 1;
+}
+</style>
+<![endif]-->
+<!--[if lte IE 7]>
+<style>
+#controlbar-top .box-bc
+{
+padding-bottom:8px;
+}
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style>
+.yui3-js-enabled .scroll-to-top {display: none;}
+input.box, textarea.box {width: 99%}
+</style>
+<![endif]-->
+
+
+  <script type="text/javascript" src="/var/formation/cache/public/javascript/24c8e7c72ce8b5b79f029e6353fa2ffd.js" charset="utf-8"></script>
+
+</head>
+
+<body class="loginpage">
+
+<div id="page" class="ezcontentnavigationpart section_id_0">
+<div id="header">
+<div id="header-design" class="float-break">
+
+</div>
+</div>

@@ -1,0 +1,131 @@
+a:10:{s:7:"content";s:4622:"
+<script type="text/javascript">
+
+function checkAll()
+{
+
+    if ( document.fullview.selectall.value == "Sélectionner tout" )
+
+    {
+
+        document.fullview.selectall.value = "Désélectionner tout";
+
+        with (document.fullview)
+	{
+            for (var i=0; i < elements.length; i++)
+	    {
+                if (elements[i].type == 'checkbox' && elements[i].name == 'DeleteIDArray[]')
+                     elements[i].checked = true;
+	    }
+        }
+     }
+     else
+     {
+
+         document.fullview.selectall.value = "Sélectionner tout";
+
+         with (document.fullview)
+	 {
+            for (var i=0; i < elements.length; i++)
+	    {
+                if (elements[i].type == 'checkbox' && elements[i].name == 'DeleteIDArray[]')
+                     elements[i].checked = false;
+	    }
+         }
+     }
+}
+
+</SCRIPT>
+
+<form name="fullview" method="post" action="/index.php/content/action">
+
+<div class="objectheader">
+<h2>Vue par défaut de l'objet. <a class="menuheadlink" href="/index.php/visual/templateview/node/view/full.tpl">Cliquez pour créer un template personnalisé</a>, ID du Nœud : 63, ID de l'objet : 61</h2>
+</div>
+
+<div class="object">
+<h1>La tong</h1>
+<input type="hidden" name="TopLevelNode" value="63" />
+
+                          
+        <div class="block">
+        <label>Titre</label>
+    	<p class="box">
+La tong</p>
+    </div>
+        <div class="block">
+        <label>Sous titre</label>
+    	<p class="box">
+tong d'été</p>
+    </div>
+        <div class="block">
+        <label>Descrption</label>
+    	<p class="box">
+<p>
+La tong, aussi appelée gougoune au Québec ou encore savate ou claquette dans la France d'outre-mer, est une chaussure formée d’une semelle sur laquelle sont fixées deux brides en Y dont l’extrémité passe entre les deux premiers orteils. <br />
+Parfois appelée « string des pieds », la tong est une chaussure estivale et ludique. <br />
+De nombreuses personnes se trompent en appelant tongs ce qui en réalité sont des mules. <br />Il ne faut pas les confondre : la mule n'a pas de lanière séparant les deux premiers orteils du pied. Tong est un mot d’origine chinoise.</p></p>
+    </div>
+        <div class="block">
+        <label>Nom image</label>
+    	<p class="box">
+
+    
+        
+    
+                                                                                                                                            <img src="/var/formation/storage/images/styles/chaussures/la-tong/205-1-fre-FR/La-tong_large.jpg" width="269" height="269"  style="border: 0px  ;" alt="Tong d'été" title="Tong d'été" />
+            
+    
+    
+    </p>
+    </div>
+        <div class="block">
+        <label>Nom_lien</label>
+    	<p class="box"><a href="http://jacotte26.forumactif.com/t12315-la-tong">Tong d'été</a></p>
+    </div>
+        <div class="block">
+        <label>Date publication</label>
+    	<p class="box">15/09/2014</p>
+    </div>
+    
+<div class="buttonblock">      <input type="hidden" name="ContentObjectID" value="61" />
+   <input class="button" type="submit" name="EditButton" value="Modifier" />
+       <input class="button" type="submit" name="ActionPreview" value="Prévisualiser" />
+        <input class="button" type="submit" name="ActionRemove" value="Supprimer" />
+        <input class="button" type="submit" name="ActionAddToBookmarks" value="Ajouter aux signets" />
+    <input class="button" type="submit" name="ActionAddToNotification" value="Avisez-moi des mise à jour" />
+
+</div>
+
+</div>
+
+    
+          
+                        
+<div class="buttonblock">
+         <input type="hidden" name="NodeID" value="63" />
+         <select name="ClassID">
+	      	      <option value="2">Article</option>
+	      	      <option value="23">ArticleV2</option>
+	      	      <option value="13">Comment</option>
+	      	      <option value="14">Common ini settings</option>
+	      	      <option value="12">File</option>
+	      	      <option value="1">Folder</option>
+	      	      <option value="5">Image</option>
+	      	      <option value="11">Link</option>
+	      	      <option value="24">Rubrique</option>
+	      	      <option value="25">Sous rubriqueV2</option>
+	      	      <option value="15">Template look</option>
+	      	      <option value="4">User</option>
+	      	      <option value="3">User group</option>
+	               </select>
+         <input class="button" type="submit" name="NewButton" value="Créer ici" /></div>
+
+
+<input type="hidden" name="ContentNodeID" value="63" />
+<input type="hidden" name="ContentObjectID" value="61" />
+<input type="hidden" name="ViewMode" value="full" />
+
+
+</form>
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:6:"Styles";s:3:"url";s:21:"/content/view/full/59";s:9:"url_alias";s:6:"Styles";s:7:"node_id";s:2:"59";}i:2;a:4:{s:4:"text";s:10:"Chaussures";s:3:"url";s:21:"/content/view/full/60";s:9:"url_alias";s:17:"Styles/Chaussures";s:7:"node_id";s:2:"60";}i:3;a:4:{s:4:"text";s:7:"La tong";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"63";}}s:10:"title_path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:6:"Styles";s:3:"url";s:21:"/content/view/full/59";s:9:"url_alias";s:6:"Styles";s:7:"node_id";s:2:"59";}i:2;a:4:{s:4:"text";s:10:"Chaussures";s:3:"url";s:21:"/content/view/full/60";s:9:"url_alias";s:17:"Styles/Chaussures";s:7:"node_id";s:2:"60";}i:3;a:3:{s:4:"text";s:7:"La tong";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"63";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"61";s:7:"node_id";s:2:"63";s:14:"parent_node_id";s:2:"60";s:8:"class_id";s:2:"23";s:16:"class_identifier";s:9:"articlev2";s:9:"remote_id";s:32:"0b915475624eaed6e89b5828f76edde5";s:14:"node_remote_id";s:32:"69cf393af712a9301905b138cc10ebf8";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"4";s:9:"url_alias";s:25:"Styles/Chaussures/La-tong";s:16:"current_language";s:6:"fre-FR";s:13:"language_mask";s:1:"2";s:12:"main_node_id";s:2:"63";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";b:0;s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:2:"25";s:23:"parent_class_identifier";s:15:"sous_rubriquev2";s:21:"parent_node_remote_id";s:32:"05ddfa14dbc861fb8c76eea4e3c909c0";s:23:"parent_object_remote_id";s:32:"fad36f25cb13a3b702014a8f66732625";}s:13:"template_list";a:9:{i:0;s:44:"design/standard/templates/node/view/full.tpl";i:1;s:62:"design/standard/templates/content/collectedinfo_validation.tpl";i:2;s:60:"design/standard/templates/content/datatype/view/ezstring.tpl";i:4;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:5;s:66:"design/standard/templates/content/datatype/view/ezxmltags/line.tpl";i:8;s:71:"design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:9;s:59:"design/standard/templates/content/datatype/view/ezimage.tpl";i:10;s:57:"design/standard/templates/content/datatype/view/ezurl.tpl";i:11;s:58:"design/standard/templates/content/datatype/view/ezdate.tpl";}s:9:"cache_ttl";i:-1;}

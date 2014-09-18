@@ -1,0 +1,19 @@
+a:10:{s:7:"content";s:357:"<div>
+    <ul>
+     
+<b> Titre :</b> Poid lourd<br />
+<b> Sous titre : </b>     <br />   
+<b> Déscription :</b>    Oui ou non ?<br />    
+    
+<b> Image : </b> 
+<p>No Image</p><br />        
+        
+        
+<b> Lien :</b> 
+     <a href="">Poid lourd</a><br />            
+        
+<b> Date de publication :</b> 02.09.2014<br />
+        
+    </ul>
+</div>
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:8:"Ecologie";s:3:"url";s:21:"/content/view/full/64";s:9:"url_alias";s:8:"Ecologie";s:7:"node_id";s:2:"64";}i:2;a:4:{s:4:"text";s:6:"Camion";s:3:"url";s:21:"/content/view/full/67";s:9:"url_alias";s:15:"Ecologie/Camion";s:7:"node_id";s:2:"67";}i:3;a:4:{s:4:"text";s:10:"Poid lourd";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"75";}}s:10:"title_path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:8:"Ecologie";s:3:"url";s:21:"/content/view/full/64";s:9:"url_alias";s:8:"Ecologie";s:7:"node_id";s:2:"64";}i:2;a:4:{s:4:"text";s:6:"Camion";s:3:"url";s:21:"/content/view/full/67";s:9:"url_alias";s:15:"Ecologie/Camion";s:7:"node_id";s:2:"67";}i:3;a:3:{s:4:"text";s:10:"Poid lourd";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"75";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"73";s:7:"node_id";s:2:"75";s:14:"parent_node_id";s:2:"67";s:8:"class_id";s:2:"23";s:16:"class_identifier";s:9:"articlev2";s:9:"remote_id";s:32:"75d1f3ec8e00dda657d6a7f6317cf8c7";s:14:"node_remote_id";s:32:"ea712f66a940ac68bc3a9ca6b14281d8";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"4";s:9:"url_alias";s:26:"Ecologie/Camion/Poid-lourd";s:16:"current_language";s:6:"fre-FR";s:13:"language_mask";s:1:"2";s:12:"main_node_id";s:2:"75";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";b:0;s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:2:"25";s:23:"parent_class_identifier";s:15:"sous_rubriquev2";s:21:"parent_node_remote_id";s:32:"94006ef5b3c6f70916db3eb6996d5977";s:23:"parent_object_remote_id";s:32:"2047546ddb477c19ebc2cef4c6b515a1";}s:13:"template_list";a:1:{i:0;s:74:"extension/formation/design/formation/override/templates/full/articlev2.tpl";}s:9:"cache_ttl";i:-1;}

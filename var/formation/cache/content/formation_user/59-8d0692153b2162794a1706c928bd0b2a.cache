@@ -1,0 +1,160 @@
+a:10:{s:7:"content";s:4678:"
+<script type="text/javascript">
+
+function checkAll()
+{
+
+    if ( document.fullview.selectall.value == "Sélectionner tout" )
+
+    {
+
+        document.fullview.selectall.value = "Désélectionner tout";
+
+        with (document.fullview)
+	{
+            for (var i=0; i < elements.length; i++)
+	    {
+                if (elements[i].type == 'checkbox' && elements[i].name == 'DeleteIDArray[]')
+                     elements[i].checked = true;
+	    }
+        }
+     }
+     else
+     {
+
+         document.fullview.selectall.value = "Sélectionner tout";
+
+         with (document.fullview)
+	 {
+            for (var i=0; i < elements.length; i++)
+	    {
+                if (elements[i].type == 'checkbox' && elements[i].name == 'DeleteIDArray[]')
+                     elements[i].checked = false;
+	    }
+         }
+     }
+}
+
+</SCRIPT>
+
+<form name="fullview" method="post" action="/index.php/content/action">
+
+<div class="objectheader">
+<h2>Vue par défaut de l'objet. <a class="menuheadlink" href="/index.php/visual/templateview/node/view/full.tpl">Cliquez pour créer un template personnalisé</a>, ID du Nœud : 59, ID de l'objet : 57</h2>
+</div>
+
+<div class="object">
+<h1>Styles</h1>
+<input type="hidden" name="TopLevelNode" value="59" />
+
+                          
+        <div class="block">
+        <label>Titre</label>
+    	<p class="box">
+Styles</p>
+    </div>
+        <div class="block">
+        <label>Sous titre</label>
+    	<p class="box">
+</p>
+    </div>
+        <div class="block">
+        <label>Descriptif rubrique</label>
+    	<p class="box">
+<p>Le monde de la mode pour nous les femmes</p></p>
+    </div>
+    
+<div class="buttonblock">      <input type="hidden" name="ContentObjectID" value="57" />
+   <input class="button" type="submit" name="EditButton" value="Modifier" />
+       <input class="button" type="submit" name="ActionPreview" value="Prévisualiser" />
+        <input class="button" type="submit" name="ActionRemove" value="Supprimer" />
+        <input class="button" type="submit" name="ActionAddToBookmarks" value="Ajouter aux signets" />
+    <input class="button" type="submit" name="ActionAddToNotification" value="Avisez-moi des mise à jour" />
+
+</div>
+
+</div>
+
+    
+          
+                        
+<div class="buttonblock">
+         <input type="hidden" name="NodeID" value="59" />
+         <select name="ClassID">
+	      	      <option value="2">Article</option>
+	      	      <option value="23">ArticleV2</option>
+	      	      <option value="13">Comment</option>
+	      	      <option value="14">Common ini settings</option>
+	      	      <option value="12">File</option>
+	      	      <option value="1">Folder</option>
+	      	      <option value="5">Image</option>
+	      	      <option value="11">Link</option>
+	      	      <option value="24">Rubrique</option>
+	      	      <option value="25">Sous rubriqueV2</option>
+	      	      <option value="15">Template look</option>
+	      	      <option value="4">User</option>
+	      	      <option value="3">User group</option>
+	               </select>
+         <input class="button" type="submit" name="NewButton" value="Créer ici" /></div>
+
+
+<input type="hidden" name="ContentNodeID" value="59" />
+<input type="hidden" name="ContentObjectID" value="57" />
+<input type="hidden" name="ViewMode" value="full" />
+
+                        
+
+
+<table class="list" width="100%" cellspacing="0" cellpadding="0" border="0">
+<tr>
+        <th width="1">
+&nbsp;
+    </th>
+        <th>
+      Nom
+    </th>
+    <th>
+      Classe
+    </th>
+    <th>
+      Section
+    </th>
+            <th width="1">
+      Modifier
+    </th>
+            <th width="1">
+      Copier
+    </th>
+    </tr><tr class="bglight">
+        	<td align="right" width="1">
+	             <input type="checkbox" name="DeleteIDArray[]" value="60" />
+        	</td>
+        	<td>
+        <a href="/index.php/Styles/Chaussures"><img src="/design/standard/images/class_2.png" border="0" alt="Document" />&nbsp;<a href="/index.php/Styles/Chaussures">Chaussures</a></a>
+	</td>
+    <td>
+        Sous rubriqueV2
+	</td>
+    <td>
+        1
+	</td>
+	
+                    <td width="1">
+                                    <a href="/index.php/content/edit/58"><img src="/design/standard/images/edit.gif" alt="Edit" /></a>
+                            </td>
+                        <td>
+          <a href="/index.php/content/copy/58"><img src="/design/standard/images/copy.gif" alt="Copier" /></a>
+        </td>
+        
+</tr></table>
+
+                                        <input type="submit" name="RemoveButton" value="Supprimer" />
+		<input name="selectall" onclick=checkAll() type="button" value="Sélectionner tout">
+        
+
+
+ 
+
+
+</form>
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:2:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:6:"Styles";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"59";}}s:10:"title_path";a:2:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:3:{s:4:"text";s:6:"Styles";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"59";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"57";s:7:"node_id";s:2:"59";s:14:"parent_node_id";s:1:"2";s:8:"class_id";s:2:"24";s:16:"class_identifier";s:8:"rubrique";s:9:"remote_id";s:32:"7385d355c528c6d72bae36ce59c35e2c";s:14:"node_remote_id";s:32:"a5ab3ce66c86a7563b833d77eaba2529";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"2";s:9:"url_alias";s:6:"Styles";s:16:"current_language";s:6:"fre-FR";s:13:"language_mask";s:1:"2";s:12:"main_node_id";s:2:"59";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";b:0;s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:1:"1";s:23:"parent_class_identifier";s:6:"folder";s:21:"parent_node_remote_id";s:32:"f3e90596361e31d496d4026eb624c983";s:23:"parent_object_remote_id";s:32:"9459d3c29e15006e45197295722c7ade";}s:13:"template_list";a:7:{i:0;s:44:"design/standard/templates/node/view/full.tpl";i:1;s:62:"design/standard/templates/content/collectedinfo_validation.tpl";i:2;s:60:"design/standard/templates/content/datatype/view/ezstring.tpl";i:4;s:61:"design/standard/templates/content/datatype/view/ezxmltext.tpl";i:5;s:71:"design/standard/templates/content/datatype/view/ezxmltags/paragraph.tpl";i:6;s:44:"design/standard/templates/node/view/line.tpl";i:7;s:46:"design/standard/templates/navigator/google.tpl";}s:9:"cache_ttl";i:-1;}

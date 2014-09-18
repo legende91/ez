@@ -1,0 +1,102 @@
+
+<div id="path">
+<div id="path-design">
+    
+<p class="path"><span class="path-here-text">Vous êtes ici :</span>                    <a class="path" href="/index.php/class/grouplist">Groupes de classes</a>
+            
+            <span class="slash">/</span>
+                <span class="path">Nouveau groupe</span>
+    
+    &nbsp;</p></div>
+</div>
+
+<hr class="hide" />
+
+    <div id="leftmenu">
+<div id="leftmenu-design">
+    
+            
+    
+    
+
+        
+    
+    
+    
+            <div class="box-header"><div class="box-ml">
+        <h4>Administration</h4>
+        </div></div>
+
+        <div class="box-bc"><div class="box-ml"><div class="box-content">
+
+                    <ul class="leftmenu-items">
+                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/setup/cache">Gestion du cache</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/class/grouplist">Classes</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/infocollector/overview">Information recueillie</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/setup/extensions">Extensions</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/settings/view">Configuration .ini</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/content/translations">Langues</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/visual/menuconfig">Gestion des menus</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/pdf/list">Export PDF</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/package/list">Paquetages</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/setup/rad">RAD</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/rss/list">Syndication</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/search/stats">Statistiques de recherche</a></div></li>
+                                                                                                                
+                                                    <li><div><a href="/index.php/section/list">Sections</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/setup/session">Sessions</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/state/groups">États des objets</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/setup/info">Informations système</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/setup/systemupgrade">Vérifier la mise à jour</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/trigger/list">Déclencheurs</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/url/list">Gestion des liens</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/content/urltranslator">Traducteur d'URL</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/content/urlwildcards">URL avec jokers</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/workflow/grouplist">Workflows</a></div></li>
+                                                                                                                
+                                                                                                                                                                                                                    <li><div><a href="/index.php/workflow/processlist">Processus de workflow</a></div></li>
+                                                                                                                
+                                                    <li><div><a href="/index.php/oauthadmin/list">oAuth admin</a></div></li>
+                                        </ul>
+        
+        </div></div></div>
+        
+
+<div id="widthcontrol-links" class="widthcontrol">
+<p>    <span class="current">Petit</span>
+    <a href="/index.php/user/preferences/set/admin_left_menu_size/medium" title="Modifier la largeur du menu à gauche pour une taille moyenne.">Moyen</a>
+    <a href="/index.php/user/preferences/set/admin_left_menu_size/large" title="Modifier la largeur du menu à gauche pour une grande taille.">Grand</a>
+    </p>
+</div>
+
+
+<div id="widthcontrol-handler" class="hide">
+<div class="widthcontrol-grippy"></div>
+</div>
+
+    
+</div>
+</div>
+
+<hr class="hide" />

@@ -1,0 +1,21 @@
+a:10:{s:7:"content";s:646:"<div>
+    <ul>
+     
+        <h1> Titre :</h1> Les chaussures Incontournable<br />
+<b> Sous titre : </b>    <p>Aucun sous Titre</p><br />
+    
+<b> Déscription :</b>    Voici de belles chaussures pour sortir le soir ou même en journée.
+
+Car la nuit il faut domir<br />    
+    
+<b> Image : </b>    <img src="/var/formation/storage/images/styles/chaussures/les-chaussures-incontournable/194-1-fre-FR/Les-chaussures-Incontournable_tresgrand.jpg"/><br />        
+        
+        
+<b> Lien :</b> 
+     <a href="">Les chaussures Incontournable</a><br />            
+        
+<b> Date de publication :</b> 12.09.2014<br />
+        
+    </ul>
+</div>
+";s:15:"view_parameters";a:5:{s:6:"offset";b:0;s:4:"year";b:0;s:5:"month";b:0;s:3:"day";b:0;s:10:"namefilter";b:0;}s:4:"path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:6:"Styles";s:3:"url";s:21:"/content/view/full/59";s:9:"url_alias";s:6:"Styles";s:7:"node_id";s:2:"59";}i:2;a:4:{s:4:"text";s:10:"Chaussures";s:3:"url";s:21:"/content/view/full/60";s:9:"url_alias";s:17:"Styles/Chaussures";s:7:"node_id";s:2:"60";}i:3;a:4:{s:4:"text";s:29:"Les chaussures Incontournable";s:3:"url";b:0;s:9:"url_alias";b:0;s:7:"node_id";s:2:"61";}}s:10:"title_path";a:4:{i:0;a:4:{s:4:"text";s:10:"eZ Publish";s:3:"url";s:20:"/content/view/full/2";s:9:"url_alias";s:0:"";s:7:"node_id";s:1:"2";}i:1;a:4:{s:4:"text";s:6:"Styles";s:3:"url";s:21:"/content/view/full/59";s:9:"url_alias";s:6:"Styles";s:7:"node_id";s:2:"59";}i:2;a:4:{s:4:"text";s:10:"Chaussures";s:3:"url";s:21:"/content/view/full/60";s:9:"url_alias";s:17:"Styles/Chaussures";s:7:"node_id";s:2:"60";}i:3;a:3:{s:4:"text";s:29:"Les chaussures Incontournable";s:3:"url";b:0;s:9:"url_alias";b:0;}}s:10:"section_id";s:1:"1";s:7:"node_id";s:2:"61";s:15:"navigation_part";s:23:"ezcontentnavigationpart";s:12:"content_info";a:24:{s:9:"object_id";s:2:"59";s:7:"node_id";s:2:"61";s:14:"parent_node_id";s:2:"60";s:8:"class_id";s:2:"23";s:16:"class_identifier";s:9:"articlev2";s:9:"remote_id";s:32:"116b062e6b9fdfb8fa9b0467b342dd59";s:14:"node_remote_id";s:32:"d85373f0b7016c0f69138ac610c514b9";s:6:"offset";b:0;s:8:"viewmode";s:4:"full";s:26:"navigation_part_identifier";s:23:"ezcontentnavigationpart";s:10:"node_depth";s:1:"4";s:9:"url_alias";s:47:"Styles/Chaussures/Les-chaussures-Incontournable";s:16:"current_language";s:6:"fre-FR";s:13:"language_mask";s:1:"2";s:12:"main_node_id";s:2:"61";s:19:"main_node_url_alias";b:0;s:19:"persistent_variable";b:0;s:11:"class_group";b:0;s:5:"state";a:1:{i:2;s:1:"1";}s:16:"state_identifier";a:1:{i:0;s:18:"ez_lock/not_locked";}s:15:"parent_class_id";s:2:"25";s:23:"parent_class_identifier";s:15:"sous_rubriquev2";s:21:"parent_node_remote_id";s:32:"05ddfa14dbc861fb8c76eea4e3c909c0";s:23:"parent_object_remote_id";s:32:"fad36f25cb13a3b702014a8f66732625";}s:13:"template_list";a:1:{i:0;s:74:"extension/formation/design/formation/override/templates/full/articlev2.tpl";}s:9:"cache_ttl";i:-1;}
